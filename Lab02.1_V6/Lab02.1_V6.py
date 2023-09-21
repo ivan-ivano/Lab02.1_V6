@@ -14,4 +14,5 @@ z2 = 4 * math.cos(a / 2) * math.cos(5 / 2 * a) * math.cos(4 * a) # розрахунок дл
 
 print("z1 = ", round(z1, 5)) # вивід z1
 print("z2 = ", round(z2, 5)) # вивід z2
-
+print("z1 + z2 = ", z1 + z2)
+print("Hello, World!")
